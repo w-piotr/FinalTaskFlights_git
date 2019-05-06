@@ -1,0 +1,41 @@
+{
+    "type": "AdaptiveCard",
+    "body": [
+        {
+            "type": "TextBlock",
+            "id": "Title",
+            "size": "Large",
+            "weight": "Bolder",
+            "text": "<Header>",
+            "wrap": true
+        },
+        {
+            "type": "FactSet",
+            "facts": [
+ 	{
+                    "title": "Rental Length:",
+                    "value": "<RentalLenght>"
+                },
+                {
+                    "title": "Passengers Number:",
+                    "value": "<PassengersNumber>"
+                },
+               
+                {
+                    "title": "Child Seats:",
+                    "value": "<ChildSeats>"
+                },
+                {
+                    "title": "Car Class:",
+                    "value": "<CarClass>"
+                },
+				{
+                    "title": "Rental Cost:",
+                    "value": "<RentalCost>"
+                }
+            ]
+        }
+    ],
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.0"
+}

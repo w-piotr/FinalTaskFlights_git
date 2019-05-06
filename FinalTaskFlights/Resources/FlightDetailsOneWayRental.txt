@@ -1,0 +1,81 @@
+{
+    "type": "AdaptiveCard",
+    "body": [
+        {
+            "type": "TextBlock",
+            "id": "Title",
+            "size": "Large",
+            "weight": "Bolder",
+            "text": "<Header>",
+            "wrap": true
+        },
+        {
+            "type": "TextBlock",
+            "id": "Subtitle",
+            "text": "One Way Flight",
+            "wrap": true
+        },
+        {
+            "type": "FactSet",
+            "facts": [
+                {
+                    "title": "Passenger Name:",
+                    "value": "<PassengerName>"
+                },
+                {
+                    "title": "Departure Airport:",
+                    "value": "<DepartureAirport>"
+                },
+                {
+                    "title": "Arrival Airport:",
+                    "value": "<ArrivalAirport>"
+                },
+                {
+                    "title": "Departure Date:",
+                    "value": "<DepartureDate>"
+                },
+                {
+                    "title": "Flight Class:",
+                    "value": "<FlightClass>"
+                },
+                {
+                    "title": "Flight Cost:",
+                    "value": "<FlightCost>"
+                }
+            ]
+        },
+        {
+            "type": "TextBlock",
+            "id": "Title:",
+            "text": "<RentalHeader>",
+            "wrap": true
+        },
+        {
+            "type": "FactSet",
+            "facts": [
+                {
+                    "title": "Rental Length:",
+                    "value": "<RentalLength>"
+                },
+                {
+                    "title": "Passengers Number:",
+                    "value": "<PassengersNumber>"
+                },
+                {
+                    "title": "Child Seats:",
+                    "value": "<ChildSeats>"
+                },
+                {
+                    "title": "Car Class:",
+                    "value": "<CarClass>"
+                },
+				{
+                    "title": "Rental Cost:",
+                    "value": "<RentalCost>"
+                }
+            ]
+        }
+    ],
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.0"
+}

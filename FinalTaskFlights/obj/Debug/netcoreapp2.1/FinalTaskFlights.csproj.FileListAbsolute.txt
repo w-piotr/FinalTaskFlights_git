@@ -1,0 +1,17 @@
+C:\Users\piotr.wojaczek\source\repos\FinalTaskFlights\FinalTaskFlights\bin\Debug\netcoreapp2.1\FinalTaskFlights.bot
+C:\Users\piotr.wojaczek\source\repos\FinalTaskFlights\FinalTaskFlights\bin\Debug\netcoreapp2.1\FinalTaskFlights.deps.json
+C:\Users\piotr.wojaczek\source\repos\FinalTaskFlights\FinalTaskFlights\bin\Debug\netcoreapp2.1\FinalTaskFlights.runtimeconfig.json
+C:\Users\piotr.wojaczek\source\repos\FinalTaskFlights\FinalTaskFlights\bin\Debug\netcoreapp2.1\FinalTaskFlights.runtimeconfig.dev.json
+C:\Users\piotr.wojaczek\source\repos\FinalTaskFlights\FinalTaskFlights\bin\Debug\netcoreapp2.1\FinalTaskFlights.dll
+C:\Users\piotr.wojaczek\source\repos\FinalTaskFlights\FinalTaskFlights\bin\Debug\netcoreapp2.1\FinalTaskFlights.pdb
+C:\Users\piotr.wojaczek\source\repos\FinalTaskFlights\FinalTaskFlights\obj\Debug\netcoreapp2.1\FinalTaskFlights.csprojAssemblyReference.cache
+C:\Users\piotr.wojaczek\source\repos\FinalTaskFlights\FinalTaskFlights\obj\Debug\netcoreapp2.1\FinalTaskFlights.csproj.CoreCompileInputs.cache
+C:\Users\piotr.wojaczek\source\repos\FinalTaskFlights\FinalTaskFlights\obj\Debug\netcoreapp2.1\FinalTaskFlights.RazorAssemblyInfo.cache
+C:\Users\piotr.wojaczek\source\repos\FinalTaskFlights\FinalTaskFlights\obj\Debug\netcoreapp2.1\FinalTaskFlights.RazorAssemblyInfo.cs
+C:\Users\piotr.wojaczek\source\repos\FinalTaskFlights\FinalTaskFlights\obj\Debug\netcoreapp2.1\FinalTaskFlights.AssemblyInfoInputs.cache
+C:\Users\piotr.wojaczek\source\repos\FinalTaskFlights\FinalTaskFlights\obj\Debug\netcoreapp2.1\FinalTaskFlights.AssemblyInfo.cs
+C:\Users\piotr.wojaczek\source\repos\FinalTaskFlights\FinalTaskFlights\obj\Debug\netcoreapp2.1\FinalTaskFlights.RazorTargetAssemblyInfo.cache
+C:\Users\piotr.wojaczek\source\repos\FinalTaskFlights\FinalTaskFlights\obj\Debug\netcoreapp2.1\FinalTaskFlights.dll
+C:\Users\piotr.wojaczek\source\repos\FinalTaskFlights\FinalTaskFlights\obj\Debug\netcoreapp2.1\FinalTaskFlights.pdb
+C:\Users\piotr.wojaczek\source\repos\FinalTaskFlights\FinalTaskFlights\obj\Debug\netcoreapp2.1\FinalTaskFlights.Properties.Resources.resources
+C:\Users\piotr.wojaczek\source\repos\FinalTaskFlights\FinalTaskFlights\obj\Debug\netcoreapp2.1\FinalTaskFlights.csproj.GenerateResource.cache
